@@ -22,7 +22,7 @@ html {
     background-color: #37383a;
     background-image: url(../img/bg/bg-img.jpg);
   }
-  .contact--sayhi {
+  .contact-mail {
     padding-top: 2em;
   }
   nav {
@@ -36,7 +36,7 @@ html {
   nav ul li a {
     text-decoration: none;
     /*color: #650C6D;*/
-    color: #c1c715;
+    color: #2a9d8f;
     border-bottom: 1px solid transparent;
     transition: all 0.5s ease;}
   nav ul li a:active,
@@ -45,7 +45,6 @@ html {
   
   .profile--image {
     text-align: center;
-    /*background: url(https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xpa1/t31.0-8/10293837_10152636550771057_3130874144105770551_o.jpg);*/
     background-size: cover;
     background-position: bottom right;
     position: fixed;
@@ -96,7 +95,7 @@ html {
   
   .btn {
     border-radius: 5px;
-    background: #27ABBA;
+    background: #264653;
     display: inline-block;
     font-weight: bold;
     color: #FFF;
