@@ -5,7 +5,11 @@
 Je m'appelle Romain Chevrot, j'ai plus de 10 ans d'expérience en informatique dans le support, la maintenance, et l'administration de systèmes et solutions informatiques.
 Ce repo est mon site CV personnel, et sera amené à évoluer dans le temps.
 
+<<<<<<< HEAD
 ### Sera ajouté
+=======
+### A ajouté
+>>>>>>> ce6f5bf59415034ce8e179bd7eac580599472f92
 
 - Credit
 - Stack utilisé
